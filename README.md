@@ -1,4 +1,4 @@
-<img width="476" height="665" alt="image" src="https://github.com/user-attachments/assets/9ec81ff0-1712-468e-a01f-ed8fe4aba9b0" /># AI Resume Screening & Job Recommendation System
+Recommendation System
 
 An intelligent Resume Screening and Job Recommendation web application that automates resume analysis using Machine Learning and Natural Language Processing (NLP).
 The system allows users to upload resumes in PDF format, extracts important candidate information, predicts the most suitable job category, recommends relevant job roles, and provides an ATS-based resume evaluation.
